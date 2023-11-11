@@ -3,6 +3,6 @@ spring:
     mongodb:
       host: ${MONGODB_HOST:localhost}
       port: ${MONGODB_PORT:27017}
-      database: ${MONGODB_DATABASE:demo}
-      username: ${MONGODB_USERNAME:user}
-      password: ${MONGODB_PASSWORD:password}
+      database: ${MONGODB_DATABASE:dev}
+      username: ${MONGODB_USERNAME:developer}
+      password: ${MONGODB_PASSWORD:local}

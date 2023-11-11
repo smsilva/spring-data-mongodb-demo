@@ -1,0 +1,12 @@
+[
+  {
+    "name": "developer",
+    "password": "local",
+    "roles": [
+      {
+        "role": "readWrite",
+        "database": "dev"
+      }
+    ]
+  }
+]
